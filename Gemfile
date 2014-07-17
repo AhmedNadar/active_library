@@ -14,3 +14,4 @@ gem 'spring',        group: :development
 #http://www.activeadmin.info/
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'devise'
+gem 'active_admin_importable'

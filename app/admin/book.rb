@@ -1,4 +1,7 @@
 ActiveAdmin.register Book do
+  
+  active_admin_importable
+  
   index do
     column "Title", :name
     column :author, sortable: :author
@@ -16,4 +19,5 @@ ActiveAdmin.register Book do
   filter :price
   filter :created_at
   filter :updated_at
+  
 end
