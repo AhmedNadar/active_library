@@ -8,5 +8,10 @@ ActiveAdmin.register Author do
     end
   end
   
+  csv do 
+    column :first_name
+    column :last_name
+  end
+  
   end
 
