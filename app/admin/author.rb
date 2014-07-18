@@ -1,5 +1,7 @@
 ActiveAdmin.register Author do
   
+  scope :author_john
+  
   active_admin_importable
   
   sidebar "Books by this Author", only: :show do
@@ -13,5 +15,5 @@ ActiveAdmin.register Author do
     column :last_name
   end
   
-  end
+end
 
