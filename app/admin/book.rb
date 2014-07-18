@@ -1,5 +1,5 @@
 ActiveAdmin.register Book do
-  
+
   active_admin_importable
   
   index do
