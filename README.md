@@ -11,7 +11,7 @@ Manage Book Library with Admin Active.
 * Custmoizing views
 * Filter by select from many attributes (check box)
 
-### Coming Features
+### ToDo
 * Show Books only for specific month (scope)
 * Regular User and Admin User sign in/out using single User model 
 
