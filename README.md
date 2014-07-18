@@ -1,6 +1,19 @@
-d## Book Library
+## Active Library
 
 Manage Book Library with Admin Active.
+
+### Features
+
+* Customize Dashboard
+* Import files in CSV format
+* Filter by scoping on model attributes
+* Create Admin User initially  with an email only where password is send by email
+* Custmoizing views
+* Filter by select from many attributes (check box)
+
+### Coming Features
+* Show Books only for specific month (scope)
+* Regular User and Admin User sign in/out using single User model 
 
 ### Environment
 
