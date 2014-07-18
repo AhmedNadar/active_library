@@ -15,3 +15,4 @@ gem 'spring',        group: :development
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'devise'
 gem 'active_admin_importable'
+# gem 'activeadmin-axlsx' Currently, it's not working. Libaray is under an update
